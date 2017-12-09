@@ -14,12 +14,15 @@ url :             https://vinaymundada27.github.io
 baseurl:          /
 
 author:
-name  :           'Vinay Mundada'
-url   :            https://www.linkedin.com/in/vinaymundada27/
+    name  :           'Vinay Mundada'
+    email :            vinaymundada27@gmail.com
+    url   :            https://www.linkedin.com/in/vinaymundada27/
 
 paginate:         1
 
 # Custom vars
-github:           https://github.com/vinaymundada27
-repo  :           https://github.com/vinaymundada27/vinaymundada27.github.io
+github:
+    repo  :           https://github.com/vinaymundada27/vinaymundada27.github.io
+    url   :           https://github.com/vinaymundada27
+
 plugins :         [jekyll-paginate, jekyll-gist, jekyll-coffeescript]
