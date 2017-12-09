@@ -10,7 +10,6 @@ permalink:        pretty
 title:            Vinay Mundada
 tagline:          'My Tech Blog'
 description:      'Coming Soon...'
-# url:              http://hyde.getpoole.com
 url :             https://vinaymundada27.github.io
 baseurl:          /
 
@@ -22,6 +21,5 @@ paginate:         1
 
 # Custom vars
 github:           https://github.com/vinaymundada27
-  repo:           https://github.com/vinaymundada27/vinaymundada27.github.io
-
+repo  :           https://github.com/vinaymundada27/vinaymundada27.github.io
 plugins :         [jekyll-paginate, jekyll-gist, jekyll-coffeescript]
