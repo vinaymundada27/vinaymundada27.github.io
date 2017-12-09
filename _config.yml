@@ -7,22 +7,21 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Vinay Mundada
+tagline:          'My Tech Blog'
+description:      'Coming Soon...'
+# url:              http://hyde.getpoole.com
+url :             https://vinaymundada27.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Vinay Mundada'
+  url:            https://www.linkedin.com/in/vinaymundada27/
 
-paginate:         5
+paginate:         1
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+github:           https://github.com/vinaymundada27
+  repo:           https://github.com/vinaymundada27/vinaymundada27.github.io
 
 plugins :         [jekyll-paginate, jekyll-gist, jekyll-coffeescript]
