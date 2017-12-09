@@ -11,7 +11,7 @@ title:            Vinay Mundada
 tagline:          'My Tech Blog'
 description:      'Coming Soon...'
 url :             https://vinaymundada27.github.io
-baseurl:          /
+# baseurl:          /
 
 author:
     name  :           'Vinay Mundada'
