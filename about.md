@@ -4,5 +4,6 @@ title: About
 ---
 
 <p class="message">
-  this is the about page ................
+    Hello guys!
+    I am Vinay Mundada.
 </p>
