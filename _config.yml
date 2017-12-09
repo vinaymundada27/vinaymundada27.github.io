@@ -15,8 +15,8 @@ url :             https://vinaymundada27.github.io
 baseurl:          /
 
 author:
-  name:           'Vinay Mundada'
-  url:            https://www.linkedin.com/in/vinaymundada27/
+name  :           'Vinay Mundada'
+url   :            https://www.linkedin.com/in/vinaymundada27/
 
 paginate:         1
 
