@@ -4,5 +4,5 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This is my Tech Blog
+  this is the about page
 </p>
